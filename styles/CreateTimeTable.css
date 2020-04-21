@@ -75,3 +75,9 @@ label{
   .sidenav {padding-top: 15px;}
   .sidenav a {font-size: 18px;}
 }
+table, th{
+  border: 1px solid black;
+}
+table,td{
+  border: 1px solid black;
+}
